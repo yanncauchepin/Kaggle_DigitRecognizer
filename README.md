@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="featured_image.gif" alt="" width="80%">
+</p>
+
+---
+
 # Kaggle_DigitRecognizer
 
 ## Convolutional Neural Networks (CNNs) for Image Recognition
@@ -54,7 +60,3 @@ The Vision Transformer (ViT) is a transformer-based architecture designed for im
 ### How to use it?
 
 For pre-trained ViT and its variants, check out [Hugging Face ViT Documentation](https://huggingface.co/docs/transformers/model_doc/vit)
-
----
-
-![](featured_image.png)
